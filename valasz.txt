@@ -1,0 +1,2 @@
+A mai Intel CPU-k 48 bites memóriacímeket használnak. Kérdés: 48 biten mekkora memóriaterületet tudunk megcímezni? (A Commodore 64 esetén a 16 bites címzéssel összesen 64 KB-nyi RAM címezhető)
+Válasz: 256 TB
