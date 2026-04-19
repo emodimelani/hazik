@@ -1,0 +1,2 @@
+A rand() első hívása mikor ad vissza 0-t?
+srand(415)
